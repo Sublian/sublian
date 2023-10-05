@@ -1,5 +1,16 @@
-# 💫 About Me:
-# Welcome to My GitHub Portfolio!<br><br>## 👨‍💻About Me<br>Hello, I'm Luis Gonzalez, a passionate developer with a Bachelor's degree in Computer Science. I have a strong foundation in programming and enjoy working on personal projects to expand my skills and explore new technologies. Currently, I am focusing on studying Python and its various libraries for web development and data analysis.<br><br>## 🦾 Working on Personal Projects<br>I love working on personal projects to challenge myself and apply my knowledge. Currently, working in collaboration in the creation of a project for a clinic, where I contribute ideas using python and flask as framework. Additionally, I'm exploring python coding in machine learning project using Python's numpy, pandas and scikit-learn library.<br><br>## 🌎Open to Collaboration<br>I believe in the power of collaboration and teamwork. I enjoy working with other developers on exciting projects that push boundaries and deliver innovative solutions. If you have any interesting collaboration opportunities, feel free to reach out!<br><br>## 📚 Education<br>- Bachelor's Degree in Computer Science: The East University - Venezuela<br>- Relevant Coursework: Python intermediate - Udemy, Python Foundation and Intro to Machine Learning - Kaggle, others courses with SoloLearn<br><br>## 📥 Contact Me<br>Let's connect and collaborate! You can reach me through the following channels:<br>- Email: subliandev@gmail.com<br>- GitHub: https://github.com/Sublian<br>- LinkedIn: https://www.linkedin.com/in/luisangelgp/<br><br>Thank you for visiting my GitHub portfolio. I'm excited to explore new possibilities and create impactful projects together!<br>
+# 💫 Welcome to My GitHub Portfolio!<br>
+## 👨‍💻About Me<br>
+Hello, I'm Luis Gonzalez, a passionate developer with a Bachelor's degree in Computer Science. I have a strong foundation in programming and enjoy working on personal projects to expand my skills and explore new technologies. Currently, I am focusing on studying Python and its various libraries for web development and data analysis.<br><br>
+## 🦾 Working on Personal Projects<br>
+I love working on personal projects to challenge myself and apply my knowledge. Currently, working in collaboration in the creation of a project for a clinic with a friend, where I contribute ideas using python and flask as framework. Additionally, I'm exploring python coding in machine learning project using Python's numpy, pandas and scikit-learn library.<br><br>
+## 🌎Open to Collaboration <br>
+I believe in the power of collaboration and teamwork. I enjoy working with other developers on exciting projects that push boundaries and deliver innovative solutions. If you have any interesting collaboration opportunities, feel free to reach out!<br><br>
+## 📚 Education <br> 
+- Bachelor's Degree in Computer Science: The East University - Venezuela<br>
+- Relevant Coursework: Python intermediate - Udemy, Python Foundation and Intro to Machine Learning - Kaggle, others courses with SoloLearn<br><br>
+## 📥 Contact Me <br>
+Let's connect and collaborate! You can reach me through the following channels:<br>- Email: subliandev@gmail.com<br>- GitHub: https://github.com/Sublian<br>- LinkedIn: https://www.linkedin.com/in/luisangelgp/<br><br>
+Thank you for visiting my GitHub portfolio. I'm excited to explore new possibilities and create impactful projects together!<br>
 
 
 ## 🌐 Socials:
