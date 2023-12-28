@@ -4,7 +4,11 @@ Hello, I'm Luis Gonzalez, a passionate developer with a Bachelor's degree in Com
 ## 🦾 Working on Personal Projects<br>
 I love working on personal projects to challenge myself and apply my knowledge. Currently, working in collaboration in the creation of a project for a clinic with a friend, where I contribute ideas using python and flask as framework. Additionally, I'm exploring python coding in machine learning project using Python's numpy, pandas and scikit-learn library.<br><br>
 ## 🌎Open to Collaboration <br>
-I believe in the power of collaboration and teamwork. I enjoy working with other developers on exciting projects that push boundaries and deliver innovative solutions. If you have any interesting collaboration opportunities, feel free to reach out!<br><br>
+I believe in the power of collaboration and teamwork. I enjoy working with other developers on exciting projects that push boundaries and offer innovative solutions. 
+I am currently participating in the Python-Doc-Es community, which helps by translating the official Python manual into Spanish. 
+If you feel like participating, check the link <https://github.com/python/python-docs-es>.
+If you have any interesting collaboration opportunities, feel free to contact me!
+<br><br>
 ## 📚 Education <br> 
 - Bachelor's Degree in Computer Science: The East University - Venezuela<br>
 - Relevant Coursework: Python intermediate - Udemy, Python Foundation and Intro to Machine Learning - Kaggle, others courses with SoloLearn<br><br>
