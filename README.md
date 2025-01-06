@@ -1,6 +1,8 @@
 # 💫 Welcome to My GitHub Portfolio!<br>
 ## 👨‍💻About Me<br>
-Hello, I'm Luis Gonzalez, a passionate developer with a Bachelor's degree in Computer Science. I have a strong foundation in programming and enjoy working on personal projects to expand my skills and explore new technologies. Currently, I am focusing on studying Python and its various libraries for web development and data analysis.<br><br>
+Hi, I'm Luis Gonzalez, a passionate developer with a degree in Computer Science. I have a solid foundation in programming and enjoy working on personal projects to expand my skills and explore new technologies.I am focused on studying Python and its various libraries for web development and data analysis.
+I work with the Django and FastApi frameworks. I like backend more than frontend. I have facility to read in English, pronunciation is not my forte but I keep learning every day.
+<br><br>
 ## 🦾 Working on Personal Projects<br>
 I love working on personal projects to challenge myself and apply my knowledge. Currently, working in collaboration in the creation of a project for a clinic with a friend, where I contribute ideas using python and flask as framework. Additionally, I'm exploring python coding in machine learning project using Python's numpy, pandas and scikit-learn library.<br><br>
 ## 🌎Open to Collaboration <br>
