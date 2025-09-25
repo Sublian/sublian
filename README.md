@@ -62,6 +62,10 @@ I'm a **Software Engineer** with over **2 years of experience specializing in ba
 - **Active Contribution:** Translator for [Python Spanish Documentation](https://github.com/python/python-docs-es).
 - **Problem Solving:** Active profile on HackerRank and Exercism.
 
+**Database Performance Engineer**
+- Optimized massive invoice processing system through strategic indexing
+- Utilized EXPLAIN ANALYZE to identify bottlenecks, improving query response time by 300%
+- Implemented database indexing strategies handling 10,000+ records efficiently
 
 ### 🚀 Live Demos
 [**Daily Phrase Delivery App**](https://subliandev.pythonanywhere.com/) - A fully functional Flask application demonstrating authentication, automated tasks, and dashboard functionality.
