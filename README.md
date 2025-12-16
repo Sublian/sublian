@@ -1,37 +1,25 @@
-<h1 align="center">Hello! 👋 I'm Luis Gonzalez</h1>
-<h3 align="center">Software Engineer | Python Backend Specialist & Performance Optimization</h3>
+# Hello! 👋 I'm Luis Gonzalez
+### Software Engineer | Python Backend Specialist & Performance Optimization
 
-I'm a **Software Engineer** with over **2 years of experience specializing in backend development with Python**. My expertise focuses on **high-performance system optimization**, **process automation**, and implementing scalable architectures using **Django, FastAPI, Flask, and Odoo**.
+I'm a Software Engineer with over 2 years of experience specializing in backend development with Python. My expertise focuses on high-performance system optimization, process automation, and implementing scalable architectures using Django, FastAPI, Flask, and Odoo.
 
-- 🔭 **Currently working on:** Legacy system optimization in **Odoo v13** with progressive migration strategy to **Odoo v17**.
-- 🚀 **Key Achievement:** Recently optimized a critical system, achieving **45x performance improvement** and reducing processing time from 20+ hours to under 3 hour.
-- 💡 **Passionate about:** Solving complex performance issues, applying **design patterns** (Singleton, Factory, Strategy), and writing clean, maintainable code.
-- 🌱 **Currently learning:** **Microservices Architecture** and **AWS**.
-- 👯 **Looking to collaborate on:** Python-related Open Source projects, documentation (like [python-docs-es](https://github.com/python/python-docs-es)), and developer tools.
-- 📫 **How to reach me:** **subliandev@gmail.com**
+I'm passionate about solving complex performance bottlenecks, applying solid design patterns, and writing clean, maintainable code. I believe in building robust systems backed by automated testing and modern DevOps practices.
 
 ---
 
-**Languages & Backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+### 🛠️ Technologies & Skills
 
-**Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend & Frameworks:** Python, Django, Django REST Framework, Flask, FastAPI, Celery
 
-**Tools & DevOps:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Databases & Caching:** PostgreSQL, MySQL, Redis, Query Optimization
+
+**Testing & QA:** Pytest, Unit/Integration Testing, Mocking, Factory Boy
+
+**DevOps & Tools:** Docker, Docker Compose, Git, CI/CD, Linux
+
+**Architecture & Concepts:** REST APIs, JWT Authentication, Microservices, Background Tasks, Design Patterns
+
+---
 
 **Socials:**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/subliandev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luisangelgp) 
@@ -44,39 +32,83 @@ I'm a **Software Engineer** with over **2 years of experience specializing in ba
 
 ---
 
-### 📈 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🚀 Odoo System Optimization** | 55x performance improvement in critical modules through profiling and query optimization. | `Python` `Odoo` `PostgreSQL` `cProfile` |
-| **🏥 Hospital Records System** | Backend development for medical data management with FastAPI and Docker. | `FastAPI` `Docker` `PostgreSQL` `JWT` `Jinja2`|
-| **💸 Automated Payroll System** | Redesign and automation of complex payroll calculations, improving efficiency. | `Django` `Pandas` `NumPy`  `PostgreSQL` `Jinja2` |
-| **[✉️ Daily Phrase Delivery App](https://subliandev.pythonanywhere.com/)** | **Live Demo ↗** - Complete Flask application with JWT auth, roles, dashboard, and automated email system. | `Flask` `JWT` `MySQL`  `Cron` `Pytest` `PythonAnywhere` |
-*💡 Interested in any project? Feel free to ask! Code for some is available in my repositories.*
+Here are some of my key public projects that showcase my approach to building and learning:
+
+#### 🔐 **Professional Django API Template**
+*(Django • Docker • JWT • PostgreSQL • Pytest)*
+A production-ready, reusable template for secure backend APIs. Features JWT authentication with refresh token rotation, a role-based permission system (admin/staff/client), rate limiting, and a fully containerized setup with Docker.
+<br>**Highlight:** Designed as a modern foundation for SaaS, mobile backends, or microservices, with a complete test suite from the start. <br>
+`⚙️ Django` `🐳 Docker` `🔒 JWT` `🐘 PostgreSQL` `🧪 Pytest`
+[View Repository](https://github.com/Sublian/django-docker-postgres_basic)
+
+#### 🧠 **Background Task Processor with Django & Celery**
+*(Django • Celery • Redis • PostgreSQL • Pandas)*
+A demo application implementing asynchronous file processing (CSV/Excel). Includes task queuing with Celery and Redis, a real-time upload dashboard, and historical task monitoring.
+<br>**Highlight:** Demonstrates handling of long-running processes, decoupling user requests from backend work, and providing user feedback.<br>
+`⚙️ Django` `🧵 Celery` `🔴 Redis` `📊 Pandas`
+[View Repository](https://github.com/Sublian/django_celery)
+
+#### 📧 **Daily English Phrases Mailing System**
+*(Flask • MySQL • JWT • Bootstrap • Cron)*
+A complete web application for automated daily email deliveries. Features a multi-role user system (free/premium), email confirmation, a personalized admin dashboard, and a robust mailing service with retry logic.
+<br>**Highlight:** A full-stack project showcasing user management, automated cron jobs, and a responsive UI.<br>
+`⚡ Flask` `🍃 MySQL` `✉️ SMTP` `🎨 Bootstrap`
+[View Repository](https://github.com/Sublian/Daily_English_Phrases)
+
+#### 🧪 **Pytest Learning Lab**
+*(Pytest • Mocking • Fixtures • Parametrization • UV)*
+A hands-on learning repository documenting my deep dive into advanced testing patterns in Python. Covers fixtures, mocking external APIs and services, test parametrization, and configuring test environments with `uv`.
+<br>**Highlight:** Reflects my commitment to code quality and professional testing standards, serving as a personal and public knowledge base.<br>
+`✅ Pytest` `🎭 Mocking` `🛠️ UV`
+[View Repository](https://github.com/Sublian/pytest-learning-lab)
 
 ---
 
-### 🌎 Community & Languages
+### 📈 Achievements & Metrics
 
-- **English:** B2 Level (Upper Intermediate) - EFSet Certified.
-- **Active Contribution:** Translator for [Python Spanish Documentation](https://github.com/python/python-docs-es).
-- **Problem Solving:** Active profile on HackerRank and Exercism.
+- **Legacy System Optimization:** Achieved a **45x performance improvement** in a critical Odoo module, reducing processing time from over 20 hours to under 3 hours through strategic profiling and query optimization.
+- **Database Performance:** Improved complex query response times by **300%** using `EXPLAIN ANALYZE` and strategic indexing on tables with 10,000+ records.
+- **Goal:** Implement 90%+ test coverage across all main repositories and integrate CI/CD for automated quality assurance.
 
-**Database Performance Engineer**
-- Optimized massive invoice processing system through strategic indexing
-- Utilized EXPLAIN ANALYZE to identify bottlenecks, improving query response time by 300%
-- Implemented database indexing strategies handling 10,000+ records efficiently
+---
+
+### 🌱 Currently & Next Steps
+
+- **Working on:** Optimizing and progressively migrating a legacy Odoo v13 system to **Django RestFramework**.
+- **Learning:** Microservices architecture and expanding my AWS cloud expertise.
+- **Collaboration:** Interested in Python open-source projects, developer tools, and technical documentation (like [python-docs-es](https://github.com/python/python-docs-es)).
+
+---
+
+### 📈 Others Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🏥 Hospital Records System** | Backend development for medical data management with FastAPI and Docker. | `FastAPI` `Docker` `PostgreSQL` `JWT` `Jinja2`|
+| **💸 Automated Payroll System** | Redesign and automation of complex payroll calculations, improving efficiency. | `Django` `Pandas` `NumPy`  `PostgreSQL` `Jinja2` |
+| **[✉️ Daily Phrase Delivery App](https://subliandev.pythonanywhere.com/)** | **Live Demo ↗** - Complete Flask application with JWT auth, roles, dashboard, and automated email system. | `Flask` `JWT` `MySQL`  `Cron` `Pytest` `PythonAnywhere` |
+
+---
+
 
 ### 🚀 Live Demos
 [**Daily Phrase Delivery App**](https://subliandev.pythonanywhere.com/) - A fully functional Flask application demonstrating authentication, automated tasks, and dashboard functionality.
 
 
-<p align="center">
-   <i>Always open to discussing technology, optimization, and new opportunities!</i>
-   <br/>
-   <a href="mailto:subliandev@gmail.com"><img src="https://img.shields.io/badge/Email-subliandev@gmail.com-blue?style=flat&logo=gmail"></a>
-   <a href="https://www.linkedin.com/in/luisangelgp/"><img src="https://img.shields.io/badge/LinkedIn-Luis%20González-blue?style=flat&logo=linkedin"></a>
-</p>
+
+
+### 📫 Let's Connect
+
+- **Email:** subliandev@gmail.com
+- **GitHub:** [@Sublian](https://github.com/Sublian)
+- **Languages:** English (B2 - EFSet Certified), Spanish (Native).
+- **Community:** Active contributor as a translator for the official Python documentation in Spanish.
+
+---
+*Thanks for visiting my profile! Always open to discussing technology, optimization challenges, and new opportunities.*
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sublian&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
