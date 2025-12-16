@@ -1,5 +1,5 @@
 # Hello! 👋 I'm Luis Gonzalez
-### Software Engineer | Python Backend Specialist & Performance Optimization
+### Software Engineer | Python Backend Specialist | Lifelong Learner
 
 I'm a Software Engineer with over 2 years of experience specializing in backend development with Python. My expertise focuses on high-performance system optimization, process automation, and implementing scalable architectures using Django, FastAPI, Flask, and Odoo.
 
@@ -7,22 +7,34 @@ I'm passionate about solving complex performance bottlenecks, applying solid des
 
 ---
 
-### 🛠️ Technologies & Skills
+### 🧠 Active Learning & Skill Development
 
-**Backend & Frameworks:** Python, Django, Django REST Framework, Flask, FastAPI, Celery
+I firmly believe in learning by doing and maintaining a structured approach to growth. For the last quarter of 2025, I'm running a focused **Upskilling Project** to deepen my expertise in key areas.
 
-**Databases & Caching:** PostgreSQL, MySQL, Redis, Query Optimization
+**🎯 T1-Upskilling-2025: Structured Learning Project**
+I use a **GitHub Project Board** to plan, track, and document my learning journey. Each skill or concept is broken down into actionable issues, linked directly to the code I write in dedicated practice repositories.
+*   **Purpose:** Systematically advance in backend architecture, advanced testing, and modern DevOps.
+*   **Methodology:** Theory → Practice → Code Repository → Documentation.
+*   **Current Focus Areas:** Advanced Pytest patterns, Microservices design, and AWS fundamentals.
+*   **👉 [View my Upskilling Project Board & Progress](https://github.com/users/Sublian/projects/2)**
 
-**Testing & QA:** Pytest, Unit/Integration Testing, Mocking, Factory Boy
-
-**DevOps & Tools:** Docker, Docker Compose, Git, CI/CD, Linux
-
-**Architecture & Concepts:** REST APIs, JWT Authentication, Microservices, Background Tasks, Design Patterns
+This public board reflects my commitment to deliberate practice and transparent skill-building.
 
 ---
 
-**Socials:**
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/subliandev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luisangelgp) 
+### 🛠️ Technologies & Skills
+
+**Backend & Frameworks:** Python, Django, Django REST Framework, FastAPI, Flask, Celery
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Query Optimization & Indexing
+
+**Testing & Quality:** Pytest, Unit/Integration Testing, Mocking, Test-Driven Development (TDD)
+
+**DevOps & Tools:** Docker, Docker Compose, Git, CI/CD (GitHub Actions Learning), Linux
+
+**Architecture:** REST APIs, JWT Auth, Background Tasks, Design Patterns, Microservices (Learning)
+
+--- 
 
 **Specialties:**
 - **Performance Optimization:** cProfile, SnakeViz, bottleneck identification and resolution.
@@ -103,6 +115,7 @@ A hands-on learning repository documenting my deep dive into advanced testing pa
 
 - **Email:** subliandev@gmail.com
 - **GitHub:** [@Sublian](https://github.com/Sublian)
+- **linkedin:** [@Luis_Gonzalez](https://www.linkedin.com/in/luisangelgp)
 - **Languages:** English (B2 - EFSet Certified), Spanish (Native).
 - **Community:** Active contributor as a translator for the official Python documentation in Spanish.
 
