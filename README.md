@@ -1,3 +1,11 @@
+[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=yellow)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-5+-092E20?style=flat&logo=django&logoColor=yellow)](https://djangoproject.com)
+![Python](https://img.shields.io/badge/Fastapi-Advanced-blue)
+![Python](https://img.shields.io/badge/Fastapi-Medium-blue)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=flat&logo=postgresql&logoColor=yellow)](https://postgresql.org)
+[![Celery](https://img.shields.io/badge/Celery-Async-3776AB?style=flat&logo=celery&logoColor=green)](https://celeryproject.org)
+![Stars](https://img.shields.io/github/stars/Sublian?style=social)
+
 # Hello! 👋 I'm Luis Gonzalez
 ### Software Engineer | Python Backend Specialist | Lifelong Learner
 
@@ -24,7 +32,7 @@ This public board reflects my commitment to deliberate practice and transparent 
 
 ---
 
-### 🛠️ Technologies & Skills
+### 🛠️ Tech Stack
 
 **Backend & Frameworks:** Python, Django, Django REST Framework, FastAPI, Flask, Celery
 
@@ -119,6 +127,7 @@ A hands-on learning repository documenting my deep dive into advanced testing pa
 - **Working on:** Optimizing and progressively migrating a legacy Odoo v13 system to **Django RestFramework**.
 - **Learning:** Microservices architecture and expanding my AWS cloud expertise.
 - **Collaboration:** Interested in Python open-source projects, developer tools, and technical documentation (like [python-docs-es](https://github.com/python/python-docs-es)).
+- **Open for mentorship/projects**
 
 ---
 
@@ -126,7 +135,7 @@ A hands-on learning repository documenting my deep dive into advanced testing pa
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🏥 Hospital Records System** | Backend development for medical data management with FastAPI and Docker. | `FastAPI` `Docker` `PostgreSQL` `JWT` `Jinja2`|
+| **🏥 Hospital Records System** | Backend development for medical data management with FastAPI and Docker. Hospital: 1k records/day| `FastAPI` `Docker` `PostgreSQL` `JWT` `Jinja2`|
 | **💸 Automated Payroll System** | Redesign and automation of complex payroll calculations, improving efficiency. | `Django` `Pandas` `NumPy`  `PostgreSQL` `Jinja2` |
 
 ---
@@ -153,5 +162,3 @@ A hands-on learning repository documenting my deep dive into advanced testing pa
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sublian&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
