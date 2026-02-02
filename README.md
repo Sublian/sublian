@@ -1,7 +1,7 @@
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=yellow)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=yellow)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-5%2B_projects-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Celery](https://img.shields.io/badge/Celery-Prod_ready-37814A?style=flat&logo=celery&logoColor=white)](https://docs.celeryq.dev/)
 [![Redis](https://img.shields.io/badge/Redis-Queue/Cache-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 
