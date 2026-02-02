@@ -1,54 +1,56 @@
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=yellow)](https://python.org)
-[![Django](https://img.shields.io/badge/Django-5+-092E20?style=flat&logo=django&logoColor=yellow)](https://djangoproject.com)
-![Python](https://img.shields.io/badge/Fastapi-Advanced-blue)
-![Python](https://img.shields.io/badge/Fastapi-Medium-blue)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=flat&logo=postgresql&logoColor=yellow)](https://postgresql.org)
-[![Celery](https://img.shields.io/badge/Celery-Async-3776AB?style=flat&logo=celery&logoColor=green)](https://celeryproject.org)
-![Stars](https://img.shields.io/github/stars/Sublian?style=social)
+[![Django](https://img.shields.io/badge/Django-5%2B_projects-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Celery](https://img.shields.io/badge/Celery-Prod_ready-37814A?style=flat&logo=celery&logoColor=white)](https://docs.celeryq.dev/)
+[![Redis](https://img.shields.io/badge/Redis-Queue/Cache-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 
-# Hello! 👋 I'm Luis Gonzalez
-### Software Engineer | Python Backend Specialist | Lifelong Learner
 
-I'm a Software Engineer with over 2 years of experience specializing in backend development with Python. My expertise focuses on high-performance system optimization, process automation, and implementing scalable architectures using Django, FastAPI, Flask, and Odoo.
+# Hello! 👋 I'm Luis Gonzalez  
 
-I'm passionate about solving complex performance bottlenecks, applying solid design patterns, and writing clean, maintainable code. I believe in building robust systems backed by automated testing and modern DevOps practices.
+### Software Engineer · Python Backend Specialist · Lifelong Learner  
+
+I'm a **Backend Python Engineer** with 2+ years working on production systems, specializing in API design, process automation, and high-performance backend services using Django, FastAPI, Flask, and Odoo. My work is focused on building scalable, maintainable architectures that are easy to evolve and operate in real-world environments.
+
+I enjoy tackling complex performance bottlenecks, designing clear and robust abstractions, and writing clean, well-tested code that teams can rely on over time. I care about code quality, observability, and modern DevOps practices to ensure systems are not only functional, but reliable in production.
 
 ---
 
 ### 🧠 Active Learning & Skill Development
 
-I firmly believe in learning by doing and maintaining a structured approach to growth. For the last quarter of 2025, I'm running a focused **Upskilling Project** to deepen my expertise in key areas.
+I believe in learning by doing and following a structured approach to growth. I run an ongoing **Upskilling Project** to deepen my expertise in core backend and DevOps skills.
 
 **🎯 T1-Upskilling-2025: Structured Learning Project**
 
 I use a **GitHub Project Board** to plan, track, and document my learning journey. Each skill or concept is broken down into actionable issues, linked directly to the code I write in dedicated practice repositories.
 
-*   **Purpose:** Systematically advance in backend architecture, advanced testing, and modern DevOps.
-*   **Methodology:** Theory → Practice → Code Repository → Documentation.
-*   **Current Focus Areas:** Advanced Pytest patterns, Microservices design, and AWS fundamentals.
-*   **👉 [View my Upskilling Project Board & Progress](https://github.com/users/Sublian/projects/2)**
+- **Purpose:** Systematically advance in backend architecture, advanced testing, and modern DevOps.
+- **Methodology:** Theory → Practice → Code Repository → Documentation.
+- **Current Focus Areas:** Advanced Pytest patterns, microservices design, and AWS fundamentals.
+- **👉 [View my Upskilling Project Board & Progress](https://github.com/users/Sublian/projects/2)**
 
-This public board reflects my commitment to deliberate practice and transparent skill-building.
+This public board reflects my commitment to deliberate practice, continuous improvement, and transparent skill-building.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Backend & Frameworks:** Python, Django, Django REST Framework, FastAPI, Flask, Celery
+**Backend & Frameworks:** Python, Django, Django REST Framework, FastAPI, Flask, Celery  
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Query Optimization & Indexing
+**Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis · Query optimization, indexing strategies  
 
-**Testing & Quality:** Pytest, Unit/Integration Testing, Mocking, Test-Driven Development (TDD), Code Coverage Analysis
+**Testing & Quality:** Pytest, unit/integration testing, mocking, TDD, coverage analysis  
 
-**DevOps & Tools:** Docker, Docker Compose, Git, CI/CD (GitHub Actions Learning), Linux
+**DevOps & Tooling:** Docker, Docker Compose, Git, GitHub Actions (CI/CD pipelines), Linux  
 
-**Architecture:** REST APIs, JWT Auth, Background Tasks, Design Patterns, Microservices (Learning)
+**Architecture & Patterns:** REST APIs, JWT auth, background tasks, service layer patterns, microservice-oriented design (in progress)
 
-**Specialties:**
-- **Performance Optimization:** cProfile, SnakeViz, bottleneck identification and resolution.
-- **Architecture:** Design Patterns (Singleton, Factory, MVC), Service-Oriented Architecture.
-- **Testing & QA:** PyTest, Unit Testing, Coverage Analysis, Swagger/OpenAPI.
-- **Automation:** Scripting, scheduled tasks, reporting systems.
+**Specialties**
+
+- **Performance Optimization:** Profiling with cProfile/SnakeViz, bottleneck identification and resolution.
+- **Architecture:** Pragmatic use of design patterns (Factory, Strategy, service layers) and modular backend design.
+- **Testing & QA:** Pytest-centered workflows, high-value test suites, Swagger/OpenAPI-driven contracts.
+- **Automation:** Scripting, scheduled jobs, reporting and monitoring tasks.
 
 ---
 
