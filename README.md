@@ -47,69 +47,74 @@ This public board reflects my commitment to deliberate practice, continuous impr
 
 **Specialties**
 
-- **Performance Optimization:** Profiling with cProfile/SnakeViz, bottleneck identification and resolution.
-- **Architecture:** Pragmatic use of design patterns (Factory, Strategy, service layers) and modular backend design.
-- **Testing & QA:** Pytest-centered workflows, high-value test suites, Swagger/OpenAPI-driven contracts.
+- **Performance Optimization:** Systematic profiling with `cProfile` + SnakeViz, hot‑path analysis, and targeted refactors to reduce execution time in critical paths.  
+
+- **Database Performance:** Query tuning in PostgreSQL using `EXPLAIN ANALYZE`, indexing strategies, and rewrite of heavy joins/aggregations for significant latency reduction.  
+
+- **Architecture:** Pragmatic use of design patterns (Factory, Strategy, service layers) and modular backend design.  
+
+- **Testing & QA:** Pytest-centered workflows, high-value test suites, Swagger/OpenAPI-driven contracts.  
+
 - **Automation:** Scripting, scheduled jobs, reporting and monitoring tasks.
 
 ---
 
 ### 🚀 Featured Projects
 
-Here are some of my key public projects that showcase my approach to building and learning:
+Here are some key public projects that represent how I design, test, and ship backend systems.
 
-#### 🔐 **Professional Django API Template** ⭐ *100% Test Coverage Achieved*
-*(Django • Docker • JWT • PostgreSQL • Pytest)*
+#### 🔐 **Professional Django API Template** · *100% test coverage*
+*(Django • Docker • JWT • PostgreSQL • Pytest)*  
 
-A production-ready, reusable template for secure backend APIs. Features JWT authentication with refresh token rotation, a role-based permission system (admin/staff/client), rate limiting, and a fully containerized setup with Docker.
+Production-ready, reusable template for secure backend APIs. Includes JWT authentication with refresh token rotation, a role-based permission system (admin/staff/client), rate limiting, and a fully containerized setup with Docker.  
 
-**🏆 Latest Achievement:** Reached **100% test coverage** with 62+ comprehensive tests, including integration tests for all API endpoints, authentication flows, and permission systems. This demonstrates professional-grade quality assurance practices.
+**Testing:** Reached **100% test coverage** with 60+ tests, including integration coverage for API endpoints, authentication flows, and permissions, following professional QA practices.  
 
-**Highlights:** 
-- Complete test suite from the start with Factory Boy and advanced mocking
-- Designed as a modern foundation for SaaS, mobile backends, or microservices
-- CI/CD ready with automated testing workflows
+**Highlights:**  
+- Factory Boy–based test data, advanced mocking, and end-to-end API tests  
+- Designed as a modern foundation for SaaS, mobile backends, or microservices  
+- CI/CD-friendly structure with automated test workflows  
 
-`⚙️ Django` `🐳 Docker` `🔒 JWT` `🐘 PostgreSQL` `🧪 Pytest` `📊 100% Coverage`
+`⚙️ Django` `🐳 Docker` `🔒 JWT` `🐘 PostgreSQL` `🧪 Pytest` `📊 100% Coverage`  
 
 [View Repository](https://github.com/Sublian/django-docker-postgres_basic)
 
 ---
 
 #### 🧠 **Background Task Processor with Django & Celery**
-*(Django • Celery • Redis • PostgreSQL • Pandas)*
+*(Django • Celery • Redis • PostgreSQL • Pandas)*  
 
-A demo application implementing asynchronous file processing (CSV/Excel). Includes task queuing with Celery and Redis, a real-time upload dashboard, and historical task monitoring.
+Backend service for asynchronous file processing (CSV/Excel) using Celery and Redis. Handles long-running tasks, decouples user requests from heavy processing, and exposes a dashboard for tracking upload status and historical runs.  
 
-**Highlight:** Demonstrates handling of long-running processes, decoupling user requests from backend work, and providing user feedback.
+**Highlight:** Demonstrates production-style async patterns: task queues, retries, monitoring, and user feedback for background work.  
 
-`⚙️ Django` `🧵 Celery` `🔴 Redis` `📊 Pandas`
+`⚙️ Django` `🧵 Celery` `🔴 Redis` `📊 Pandas`  
 
 [View Repository](https://github.com/Sublian/django_celery)
 
 ---
 
 #### 📧 **Daily English Phrases Mailing System**
-*(Flask • MySQL • JWT • Bootstrap • Cron)*
+*(Flask • MySQL • JWT • Bootstrap • Cron)*  
 
-A complete web application for automated daily email deliveries. Features a multi-role user system (free/premium), email confirmation, a personalized admin dashboard, and a robust mailing service with retry logic.
+Full-stack web application for automated daily email delivery. Implements multi-role accounts (free/premium), email confirmation, a personalized admin dashboard, and a mailing workflow with retries and scheduling.  
 
-**Highlight:** A full-stack project showcasing user management, automated cron jobs, and a responsive UI.
+**Highlight:** Showcases user management, scheduled jobs, transactional email flows, and a responsive UI deployed to production.  
 
-`⚡ Flask` `🍃 MySQL` `✉️ SMTP` `🎨 Bootstrap`
+`⚡ Flask` `🍃 MySQL` `✉️ SMTP` `🎨 Bootstrap`  
 
-[View Repository](https://github.com/Sublian/Daily_English_Phrases) | [Live Demo ↗](https://subliandev.pythonanywhere.com/)
+[View Repository](https://github.com/Sublian/Daily_English_Phrases) · [Live Demo ↗](https://subliandev.pythonanywhere.com/)
 
 ---
 
 #### 🧪 **Pytest Learning Lab**
-*(Pytest • Mocking • Fixtures • Parametrization • UV)*
+*(Pytest • Fixtures • Mocking • Parametrization • uv)*  
 
-A hands-on learning repository documenting my deep dive into advanced testing patterns in Python. Covers fixtures, mocking external APIs and services, test parametrization, and configuring test environments with `uv`.
+Hands-on repository documenting my deep dive into **advanced testing patterns** in Python. Covers reusable fixtures, parametrized tests, and robust mocking of external APIs and services, all running on a modern `uv`-based test environment.  
 
-**Highlight:** Reflects my commitment to code quality and professional testing standards, serving as a personal and public knowledge base.
+**Highlight:** Serves as a living knowledge base for professional-grade testing practices, focused on readability, intent-revealing test names, and fast feedback loops.  
 
-`✅ Pytest` `🎭 Mocking` `🛠️ UV`
+`✅ Pytest` `🎭 Mocking` `🧩 Fixtures & Parametrize` `🛠️ uv`  
 
 [View Repository](https://github.com/Sublian/pytest-learning-lab)
 
@@ -117,19 +122,19 @@ A hands-on learning repository documenting my deep dive into advanced testing pa
 
 ### 📈 Achievements & Metrics
 
-- **Testing Excellence:** Achieved **100% test coverage** on the Django API Template project with 62+ comprehensive tests, demonstrating professional-grade quality assurance practices.
-- **Legacy System Optimization:** Achieved a **45x performance improvement** in a critical Odoo module, reducing processing time from over 20 hours to under 3 hours through strategic profiling and query optimization.
-- **Database Performance:** Improved complex query response times by **300%** using `EXPLAIN ANALYZE` and strategic indexing on tables with 10,000+ records.
-- **Goal:** Maintain 90%+ test coverage across all main repositories and integrate CI/CD for automated quality assurance.
+- **Testing Excellence:** Achieved **100% test coverage** on my Django API Template (60+ tests, including integration suites for endpoints, auth flows, and permissions), reflecting strong, automated QA practices.  
+- **Legacy System Optimization (Odoo):** Delivered a **45x performance improvement** on a critical module, reducing processing time from 20+ hours to under 3 hours through profiling, query refactors, and better indexing.  
+- **Database Performance:** Improved complex query response times by **300%** on tables with 10,000+ records using `EXPLAIN ANALYZE`, strategic indexing, and query simplification.  
+- **Quality Discipline:** Aim to keep **90%+ test coverage** on main repositories and rely on CI/CD pipelines for continuous, automated quality checks.
 
 ---
 
 ### 🌱 Currently & Next Steps
 
-- **Working on:** Optimizing and progressively migrating a legacy Odoo v13 system to **Django RestFramework**.
-- **Learning:** Microservices architecture and expanding my AWS cloud expertise.
-- **Collaboration:** Interested in Python open-source projects, developer tools, and technical documentation (like [python-docs-es](https://github.com/python/python-docs-es)).
-- **Open for mentorship/projects**
+- **Working on:** Optimizing and progressively migrating a legacy Odoo v13 system into **Django REST Framework** services, with a focus on performance, maintainability, and clean API boundaries.  
+- **Learning:** Deepening my understanding of microservices architecture and growing my AWS cloud skills (deployment, networking, and managed services for backend workloads).  
+- **Collaboration:** Interested in contributing to Python open-source projects, developer tooling, and technical documentation initiatives like [python-docs-es](https://github.com/python/python-docs-es).  
+- **Open to:** Remote-friendly backend roles, collaboration on Python infrastructure/testing projects, and mentorship opportunities (both giving and receiving).
 
 ---
 
@@ -137,8 +142,8 @@ A hands-on learning repository documenting my deep dive into advanced testing pa
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🏥 Hospital Records System** | Backend development for medical data management with FastAPI and Docker. Hospital: 1k records/day| `FastAPI` `Docker` `PostgreSQL` `JWT` `Jinja2`|
-| **💸 Automated Payroll System** | Redesign and automation of complex payroll calculations, improving efficiency. | `Django` `Pandas` `NumPy`  `PostgreSQL` `Jinja2` |
+| **🏥 Hospital Records System** | Backend for medical data management with FastAPI and Docker, handling ~1k new records per day with secure access and structured data workflows. | `FastAPI` `Docker` `PostgreSQL` `JWT` `Jinja2` |
+| **💸 Automated Payroll System** | Redesign and automation of complex payroll calculations (allowances, deductions, taxes), significantly improving processing efficiency and reducing manual errors. | `Django` `Pandas` `NumPy` `PostgreSQL` `Jinja2` |
 
 ---
 
